@@ -1,12 +1,12 @@
 [
   {
-    "image":https://uupload.ir/files/dxod_img_20210322_115658_848.jpg
-    "text": "متن با ویدئو ترکیب کن",
-    "video": "https://aspb25.cdn.asset.aparat.com/aparat-video/155bcdb5c326a4ca3d33746a9ca4211c29619495-240p.mp4?wmsAuthSign\\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjM4MjE4NGVkNWNhNWIzZWQxNTA5NWNmODk0Yjc0MTdkIiwiZXhwIjoxNjE2MjkyNjkzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.hmkhNj-OnE7QHh9zonAEZMGAhATwhTQgTHNWAcbPTj4"
+    "text": "آموزش تست",
+    "image": "https://uupload.ir/files/dxod_img_20210322_115658_848.jpg",
+    "video": "https://aspb22.cdn.asset.aparat.com/aparat-video/dad1217229fcfc5767f9a91983a6eae830488270-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImQ3ZGMzMjhkODMzZWQ0Nzc5YzJhYzQ1NmY5ZTk5MzU2IiwiZXhwIjoxNjE2NDE2MzY3LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.KRpD_fMioiSBw2IppCjDGTWdYc-jTHlOx-8HR7HQ9T8"
   },
   {
-    "image":https://uupload.ir/files/dxod_img_20210322_115658_848.jpg
-    "text": "اموزش تست",
-    "video": "https://aspb25.cdn.asset.aparat.com/aparat-video/155bcdb5c326a4ca3d33746a9ca4211c29619495-240p.mp4?wmsAuthSign\\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjM4MjE4NGVkNWNhNWIzZWQxNTA5NWNmODk0Yjc0MTdkIiwiZXhwIjoxNjE2MjkyNjkzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.hmkhNj-OnE7QHh9zonAEZMGAhATwhTQgTHNWAcbPTj4"
+    "text": "آموزش تتستستیخ",
+    "image": "https://uupload.ir/files/zd2n_img_20210322_115656_369.jpg",
+    "video": "https://aspb26.cdn.asset.aparat.com/aparat-video/759395959b84cb3f36d7b9d66a96b8db30406333-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImIyN2IyNzU5NTQwOWUzZDEwMDM5YzMwMDIzMWFjYTdiIiwiZXhwIjoxNjE2NDE2NTEyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.lT1_uym-Lc1sqXdPmCXfKCP55PAkeJFUJrnhDFg0jdo"
   }
 ]
