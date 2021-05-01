@@ -2,7 +2,7 @@
   {
     "text": "آموزش ساخت پروفایل حرفه ای",
     "image": "https://uupload.ir/files/b0wh_img_20210323_164254_674.jpg",
-    "video": "https://hajifirouz2.cdn.asset.aparat.com/aparat-video/8b086648ddd4f661c2d4f3c97e8e777431448181-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjVmZWU1NTQyMjk4ZDU5NTE0YzVhY2NjNTU0YWJhMzdkIiwiZXhwIjoxNjE2NzA0NTMzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.w-u5BbhG30t2REOgYTS1j8wtqDWcc5P2NCItbkXrkwA",
+    "video": "https://aspb19.cdn.asset.aparat.com/aparat-video/8b086648ddd4f661c2d4f3c97e8e777431448181-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjJjN2NiZmYwZGJmYWJiNjRkMDYyNjU3Mjk0MzNjNGZjIiwiZXhwIjoxNjE5ODk0NjEyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.LAGvPPFvQXBETOiQVmDrhm4avHlZ9Q3mYUCfr3EKzII",
     "text2": "قسمت ۴"
   },
   {
