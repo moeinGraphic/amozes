@@ -8,7 +8,7 @@
   {
     "text": "آموزش گذاشتن‌پست پازلی",
     "image": "https://uupload.ir/files/q7el_img_20210323_164256_655.jpg",
-    "video": "https://hajifirouz1.cdn.asset.aparat.com/aparat-video/1920fd8d1a64db67766b23dae369d4b631448090-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjY5MjFlZjc5MDZiY2Q3NjkxZTFmODViZjAxYjA4OGZlIiwiZXhwIjoxNjE2NzA0NzA1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.qiIM1mpFgQrrzggx77iAboJem7A4YSj4X1ZEoxR99qk",
+    "video": "https://aspb25.cdn.asset.aparat.com/aparat-video/1920fd8d1a64db67766b23dae369d4b631448090-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjUxOTViMmRjMGUzOTU3YzJjYTlhY2E0YTc4MjAzN2RiIiwiZXhwIjoxNjE5ODk0NzM1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.VYbkUSacjaNdityVIaJhfI6nUH4M60ip9v_vuPYsJUs",
     "text2": "امیدوارم از این آموزش لذت برده باشید"
   },
   {
