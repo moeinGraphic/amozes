@@ -1,14 +1,20 @@
 [
   {
+    "text": "آموزش ساخت شخصیت کارتونی خودمون و ساخت پروفایل جذاب",
+    "image": "https://s4.uupload.ir/files/capture_2021-04-22_02.49.00_l2hb.jpg",
+    "video": "https://hajifirouz2.cdn.asset.aparat.com/aparat-video/079618c36d7942842afa0898dc8ef6da33563673-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImFjNmU4NTcwNjU4MTZiZDFkNTM4MDFiYmI3MzY2ZmZlIiwiZXhwIjoxNjIxNjMxNDQ5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.c7LuT-tC-ZFxQE3BmGcj-4wHO5OYb-BsPXE8k5Wc7aU",
+    "text2": "نرم افزار مورد نیاز (Toon Me)"
+  },
+  {
     "text": "آموزش ساخت پروفایل حرفه ای",
     "image": "https://uupload.ir/files/b0wh_img_20210323_164254_674.jpg",
-    "video": "https://aspb19.cdn.asset.aparat.com/aparat-video/8b086648ddd4f661c2d4f3c97e8e777431448181-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjJjN2NiZmYwZGJmYWJiNjRkMDYyNjU3Mjk0MzNjNGZjIiwiZXhwIjoxNjE5ODk0NjEyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.LAGvPPFvQXBETOiQVmDrhm4avHlZ9Q3mYUCfr3EKzII",
+    "video": "https://aspb19.cdn.asset.aparat.com/aparat-video/8b086648ddd4f661c2d4f3c97e8e777431448181-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjJjN2NiZmYwZGJmYWJiNjRkMDYyNjU3Mjk0MzNjNGZjIiwiZXhwIjoxNjE5ODk0NjEyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.LAGvPPFvQXBETOiQVmDrhm4avHlZ9Q3mYUCfr3EKzII",
     "text2": "قسمت ۴"
   },
   {
     "text": "آموزش گذاشتن‌پست پازلی",
     "image": "https://uupload.ir/files/q7el_img_20210323_164256_655.jpg",
-    "video": "https://aspb25.cdn.asset.aparat.com/aparat-video/1920fd8d1a64db67766b23dae369d4b631448090-240p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjUxOTViMmRjMGUzOTU3YzJjYTlhY2E0YTc4MjAzN2RiIiwiZXhwIjoxNjE5ODk0NzM1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.VYbkUSacjaNdityVIaJhfI6nUH4M60ip9v_vuPYsJUs",
+    "video": "https://aspb25.cdn.asset.aparat.com/aparat-video/1920fd8d1a64db67766b23dae369d4b631448090-240p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjUxOTViMmRjMGUzOTU3YzJjYTlhY2E0YTc4MjAzN2RiIiwiZXhwIjoxNjE5ODk0NzM1LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.VYbkUSacjaNdityVIaJhfI6nUH4M60ip9v_vuPYsJUs",
     "text2": "امیدوارم از این آموزش لذت برده باشید"
   },
   {
