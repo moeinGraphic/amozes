@@ -8,7 +8,7 @@
   {
     "text": "آموزش ساخت شخصیت کارتونی خودمون و ساخت پروفایل جذاب",
     "image": "https://s4.uupload.ir/files/capture_2021-04-22_02.49.00_l2hb.jpg",
-    "video": "https://hajifirouz2.cdn.asset.aparat.com/aparat-video/079618c36d7942842afa0898dc8ef6da33563673-360p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImFjNmU4NTcwNjU4MTZiZDFkNTM4MDFiYmI3MzY2ZmZlIiwiZXhwIjoxNjIxNjMxNDQ5LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.c7LuT-tC-ZFxQE3BmGcj-4wHO5OYb-BsPXE8k5Wc7aU",
+    "video": "https://hajifirouz2.cdn.asset.aparat.com/aparat-video/079618c36d7942842afa0898dc8ef6da33563673-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjMxODJhYzI5NDdmNjkwMzQ2MzVlN2IxODQxOTQ1ZThiIiwiZXhwIjoxNjIyMDM0MjI4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.om-xuBeNa2FilUH-qkubVl-gEIYhwZLqv8QaFMgv9hE",
     "text2": "نرم افزار مورد نیاز (Toon Me)"
   },
   {
